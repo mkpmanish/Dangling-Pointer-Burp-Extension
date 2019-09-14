@@ -11,7 +11,7 @@ Read yourself and see if you can figureout [https://en.wikipedia.org/wiki/Dangli
 
 ## Installation
 
-Extension is written in python and hence ends Jython support to run it.
+Extension is written in python and hence needs Jython support to run it.
 
 * download Jython from [here](http://search.maven.org/remotecontent?filepath=org/python/jython-standalone/2.7.1/jython-standalone-2.7.1.jar)
 * Get burp professional version
