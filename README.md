@@ -37,7 +37,7 @@ To use the extension setup the extension as shown in below gif. Then browse the 
 
 
 ##### Working Video :-
-![Working Extension](https://github.com/mkpmanish/dangling-pointer-burp-extension/blob/master/how_2_use_video.gif)
+![Working Extension](https://github.com/mkpmanish/Dangling-Pointer-Burp-Extension/blob/master/dangling_pointer_extension.gif)
 
 
 ## Whats Next ?
