@@ -21,19 +21,19 @@ Extension is written in python and hence ends Jython support to run it.
 To use the extension setup the extension as shown in below gif. Then browse the application in target and go through all functionality like login/logout/order placement/forgot password etc. Once done go to extension tab and Click on **run** ( make sure you have added target domain in code/text box) we will have list of probable suspects for bugs.
 
 ##### **Add Extension** :- 
-![Add Extension](https://github.com/mkpmanish/dangling-poimter-burp-extension/blob/master/dangling_1.png)
+![Add Extension](https://github.com/mkpmanish/Dangling-Pointer-Burp-Extension/blob/master/dangling_1.png)
 
 ##### **Loaded Extension** :- 
-![Add Extension](https://github.com/mkpmanish/dangling-poimter-burp-extension/blob/master/dangling_2.PNG)
+![Add Extension](https://github.com/mkpmanish/Dangling-Pointer-Burp-Extension/blob/master/dangling_2.png)
 
 ##### **Extension UI** :- 
-![Add Extension](https://github.com/mkpmanish/dangling-poimter-burp-extension/blob/master/dangling_3.png)
+![Add Extension](https://github.com/mkpmanish/Dangling-Pointer-Burp-Extension/blob/master/dangling_3.png)
 
 ##### **Working Extension**:- 
-![Add Extension](https://github.com/mkpmanish/dangling-poimter-burp-extension/blob/master/dangling_4.png)
+![Add Extension](https://github.com/mkpmanish/Dangling-Pointer-Burp-Extension/blob/master/dangling_4.png)
 
 ##### **Working Extensions** :- 
-![Github.com working Extension](https://github.com/mkpmanish/dangling-poimter-burp-extension/blob/master/dangling_5.png)
+![Github.com working Extension](https://github.com/mkpmanish/Dangling-Pointer-Burp-Extension/blob/master/dangling_5.png)
 
 
 ##### Working Video :-
